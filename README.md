@@ -1,6 +1,5 @@
 # Two-Stream Video Transformer for Action Recognition
-
-Official PyTorch implementation of a multi-scale temporal reasoning framework for video action recognition with spatial attention supervision.
+ PyTorch implementation of reasoning supervison framework for ViTs in HAR tasks
 
 ## Overview
 
