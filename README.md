@@ -1,4 +1,4 @@
-# Two-Stream Video Transformer for Action Recognition
+# Reasoning Supervision for Vision Transformers in Human Activity Recognition
  PyTorch implementation of reasoning supervison framework for ViTs in HAR tasks
 
 ## Overview
@@ -266,7 +266,7 @@ If you use this code, please cite:
 
 ```bibtex
 @inproceedings{anonymous2025video,
-  title={Multi-Scale Temporal Reasoning for Video Action Recognition},
+  title={Reasoning Supervision for Vision Transformers in Human Activity Recognition},
   author={Anonymous},
   booktitle={Conference},
   year={2025}
